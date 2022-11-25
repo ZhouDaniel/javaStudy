@@ -10,7 +10,7 @@ public class Encapsulation01 {
         System.out.println(person.getSalary());
         Person smith = new Person("smith", 2000, 5000);
         System.out.println(smith.info());
-
+        "str".equals("abc");
     }
 }
 class Person {

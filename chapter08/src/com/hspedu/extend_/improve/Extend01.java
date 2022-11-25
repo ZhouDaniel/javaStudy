@@ -8,7 +8,7 @@ public class Extend01 {
         com.hspedu.extend_.improve.Pupil pupil = new Pupil();
         pupil.age = 11;
         pupil.name = "小明";
-        pupil.testing();
+        pupil.  testing();
         pupil.setScore(64);
         pupil.showInfo();
         System.out.println("================");
